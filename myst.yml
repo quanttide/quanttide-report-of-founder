@@ -8,6 +8,7 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - file: 台式机维修复盘报告.md
 site:
   template: book-theme
   options:

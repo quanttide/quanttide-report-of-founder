@@ -13,3 +13,4 @@
 ### 新增
 
 - 初始化报告仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
+- 迁入「台式机维修复盘报告」（自 `data/context/work/report/`）
