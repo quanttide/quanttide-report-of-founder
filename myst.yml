@@ -8,7 +8,9 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
-    - file: 台式机维修复盘报告.md
+    - title: 基础设施
+      children:
+        - file: infra/desktop-repair-retrospective.md
 site:
   template: book-theme
   options:

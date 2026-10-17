@@ -6,7 +6,7 @@
 
 本仓库收录阶段性的报告与复盘。当前收录：
 
-- [台式机维修复盘报告.md](台式机维修复盘报告.md)：台式机「黑屏无信号」的排障与修复复盘。
+- [infra/desktop-repair-retrospective.md](infra/desktop-repair-retrospective.md)：台式机「黑屏无信号」的排障与修复复盘。
 
 ## 许可
 
