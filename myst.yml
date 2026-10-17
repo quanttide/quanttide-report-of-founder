@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: 量潮创始人报告
+  description: 量潮创始人报告 - 阶段性的报告与复盘
+  keywords: [量潮创始人, 报告]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    folders: true
