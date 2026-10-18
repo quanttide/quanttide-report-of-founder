@@ -11,9 +11,9 @@ project:
     - title: 基础设施
       children:
         - file: infra/desktop-repair-retrospective.md
-    - title: 工作
+    - title: 代码
       children:
-        - file: work/clarify-intent.md
+        - file: code/clarify-intent.md
 site:
   template: book-theme
   options:
