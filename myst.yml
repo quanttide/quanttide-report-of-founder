@@ -8,9 +8,12 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
-    - title: 规格
+    - title: 工作
       children:
-        - file: specification/index.md
+        - file: work/specification.md
+    - title: 智能体
+      children:
+        - file: agent/hermes-answer.md
     - title: 基础设施
       children:
         - file: infra/desktop-repair-retrospective.md
